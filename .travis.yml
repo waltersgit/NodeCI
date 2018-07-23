@@ -22,5 +22,6 @@ notifications:
   email:
     recipients:
       - devp.peter@gmail.com
+    on_success: always
 
 
